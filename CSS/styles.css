@@ -246,6 +246,7 @@ a {
 .input-group .input {
   border: 0;
   flex-grow: 1;
+  padding: 1.5rem 1rem;
 }
 
 .input-group .btn {
@@ -256,4 +257,26 @@ a {
   .input {
     font-size: 1.5rem;
   }
+}
+
+/* CARDS */
+.card {
+  border-radius: 7px;
+  box-shadow: 0 0 20px 10px #f3f3f3;
+  overflow: hidden;
+}
+.card__header,
+.card__body {
+  padding: 2rem 3rem;
+}
+
+/* .card--primary, */
+.card__header {
+  background: var(--color-primary);
+  color: #fff;
+}
+/* .card--secondary, */
+.card__header {
+  background: var(--color-secondary);
+  color: #fff;
 }
