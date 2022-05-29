@@ -1,5 +1,5 @@
 {
-  "name": "mosh_project",
+  "name": "subscript",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thomasjmai22/mosh_project.git"
+    "url": "git+https://github.com/thomasjmai22/subscript.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thomasjmai22/mosh_project/issues"
+    "url": "https://github.com/thomasjmai22/subscript/issues"
   },
-  "homepage": "https://github.com/thomasjmai22/mosh_project#readme",
+  "homepage": "https://github.com/thomasjmai22/subscript.git",
   "devDependencies": {
     "parcel-bundler": "^1.12.5"
   },
